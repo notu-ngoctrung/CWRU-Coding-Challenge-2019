@@ -4,4 +4,4 @@ CWRU Coding Challenge 2019 is a university-wide activity (with idea of Gary Yao)
 
 # Test formatting
 There are two testcase folders in each problem: <i>input</i> and <i>output</i>. <br>
-Testcases are named with the following format: input<i>xxx</i>.txt and output<i>xxx</i>.txt
+Testcases are named with the following format: input<b><i>xxx</i></b>.txt and output<b><i>xxx</i></b>.txt
