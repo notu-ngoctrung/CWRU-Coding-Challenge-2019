@@ -1,5 +1,5 @@
 # CWRU-Coding-Challenge-2019
-CWRU Coding Challenge 2019 is a university-wide activity to promote students' passion for competitive programming. <br>
+CWRU Coding Challenge 2019 is a university-wide activity (with idea of Gary Yao) to promote students' passion for competitive programming. <br>
 ...and it was my pleasure to contribute 4 problems in this challenge.
 
 # Test formatting
